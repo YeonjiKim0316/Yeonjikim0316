@@ -10,9 +10,7 @@ J.COLE - "LOVE YOURZ"
 
 No such thing is better than yours, no such thing... such thing....<br>
 
-
-[![J COLE - LOVE YOURZ]
-(https://imgur.com/pzjlYUW)]
-(https://www.youtube.com/embed/ZPCAvzIFY-s)
+[![J COLE - LOVE YOURZ](https://img.youtube.com/vi/ZPCAvzIFY-s/0.jpg))](https://www.youtube.com/embed/ZPCAvzIFY-s)
 
 
+[![J COLE - LOVE YOURZ](https://imgur.com/pzjlYUW)](https://www.youtube.com/embed/ZPCAvzIFY-s)
