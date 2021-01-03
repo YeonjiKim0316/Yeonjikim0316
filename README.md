@@ -1,10 +1,9 @@
 # thisispaperdoll.github.com
 
 
-J.COLE - "LOVE YOURZ"
+Chance the Rapper - Everybody's something
 <br>
+Everbody's somebody's everything. I know you right. Nobody's nothing. <br>
 
-No such thing is better than yours, no such thing... such thing....<br>
-
-[![J COLE - LOVE YOURZ](https://img.youtube.com/vi/ZPCAvzIFY-s/0.jpg))](https://www.youtube.com/embed/ZPCAvzIFY-s)
+[![J COLE - LOVE YOURZ](https://i.ytimg.com/vi/Gctf0n8b3F4/hqdefault.jpg)](https://youtu.be/Gctf0n8b3F4)
 
