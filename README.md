@@ -1,9 +1,8 @@
 # thisispaperdoll.github.com
 
 
-Chance the Rapper - Everybody's something
+재달 - 눈꺼풀
 <br>
-Everbody's somebody's everything. I know you right. Nobody's nothing. <br>
 
-[![J COLE - LOVE YOURZ](https://i.ytimg.com/vi/Gctf0n8b3F4/hqdefault.jpg)](https://youtu.be/Gctf0n8b3F4)
+[![재달 - 눈꺼풀](https://i.ytimg.com/vi/qZs1-ntLljM/mqdefault.jpg)](https://www.youtube.com/watch?v=qZs1-ntLljM)
 
