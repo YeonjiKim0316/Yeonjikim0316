@@ -1,9 +1,9 @@
 # thisispaperdoll.github.com
 
 
-M.I.A. - Bad Girls<br><br>
-LIVE FAST DIE YOUNG, BAD GIRLS DOIN' WELL!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+DPR LIVE - Maritini Blue<br><br>
+전화긴 이미 껐어 Girl, You want that, brrrrrrr~
 <br><br>
 
-[![온앤오프 - 사랑하게 될 거야](https://i.ytimg.com/vi/2uYs0gJD-LE/mqdefault.jpg)](https://youtu.be/2uYs0gJD-LE)
+[![DPR LIVE - Maritini Blue](https://i.ytimg.com/vi/czftJ7E7wa4/mqdefault.jpg)](https://www.youtube.com/watch?v=czftJ7E7wa4)
 
