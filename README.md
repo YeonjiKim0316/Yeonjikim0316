@@ -2,6 +2,7 @@
 
 ### Project ⚡
 
+* (['Babble'](https://github.com/Final-Project-Playdata/Babble-MVC) : 텍스트론 부족하고, 비디오는 과하며, 오디오는 적당하다! STT 기반 음성 SNS
 * (['Gourmand'](https://github.com/YeonjiKim0316/Gourmand_SpringBoot_Project)) : 취향 기반 맛집 SNS 서비스
 * (['Dear. Diary'](https://github.com/YeonjiKim0316/Heart-and-Heart)) :  셀프 멘탈 헬스케어 체크 SNS 
 * (['HiddenCatch'](https://github.com/YeonjiKim0316/Hidden-Catch-Project)) : 온라인 숨은그림찾기!
