@@ -11,7 +11,7 @@
 
 * Github Repo Issue
 * Email: atangi@naver.com
-
+* Blog : http://Yeonjikim0316.github.io 
   <div align=center>
 
 ### Skills 🕹
