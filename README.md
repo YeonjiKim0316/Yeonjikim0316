@@ -45,6 +45,8 @@
 <a href="#">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> &nbsp;
 <a href="#">
+<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/> &nbsp;
+<a href="#">
 <br>
 
 ![YeonjiKim0316's github stats](https://github-readme-stats.vercel.app/api?username=YeonjiKim0316&show_icons=true)
