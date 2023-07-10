@@ -1,5 +1,7 @@
 # Yeonji Kim
 
+readme.md를 조작합니다. 
+
 ### Contacts 📫
 
 * Github Repo Issue
